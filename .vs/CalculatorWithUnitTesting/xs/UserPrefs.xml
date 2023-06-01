@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{0AD677DD-02E3-4805-A345-FE4D8A310A3D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorTester/TestCalculator.cs">
+    <Files>
+      <File FileName="CalculatorApp/Program.cs" Line="2" Column="8" />
+      <File FileName="CalculatorApp/Calculator.cs" Line="5" Column="34" />
+      <File FileName="CalculatorTester/UnitTest1.cs" Line="80" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalculatorWithUnitTesting" expanded="True">
+            <Node name="CalculatorApp" expanded="True" />
+            <Node name="CalculatorTester" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="TestCalculator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CalculatorWithUnitTesting" expanded="True">
+            <Node name="CalculatorTester" expanded="True">
+              <Node name="CalculatorTester" expanded="True">
+                <Node name="TestCalculator" expanded="True">
+                  <Node name="TestDifference" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CalculatorApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

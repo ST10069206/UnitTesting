@@ -1,0 +1,15 @@
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/bin/Debug/net7.0/CalculatorApp
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/bin/Debug/net7.0/CalculatorApp.deps.json
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/bin/Debug/net7.0/CalculatorApp.runtimeconfig.json
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/bin/Debug/net7.0/CalculatorApp.dll
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/bin/Debug/net7.0/CalculatorApp.pdb
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/obj/Debug/net7.0/CalculatorApp.csproj.AssemblyReference.cache
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/obj/Debug/net7.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/obj/Debug/net7.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/obj/Debug/net7.0/CalculatorApp.AssemblyInfo.cs
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/obj/Debug/net7.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/obj/Debug/net7.0/CalculatorApp.dll
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/obj/Debug/net7.0/refint/CalculatorApp.dll
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/obj/Debug/net7.0/CalculatorApp.pdb
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/obj/Debug/net7.0/CalculatorApp.genruntimeconfig.cache
+/Users/shannonjulius/Projects/CalculatorWithUnitTesting/CalculatorApp/obj/Debug/net7.0/ref/CalculatorApp.dll
